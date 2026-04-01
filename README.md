@@ -26,6 +26,7 @@ It uses NLP techniques to convert textual data into numerical form and identifie
 - Streamlit
 - TMDB API
 - Git LFS (for handling large files)
+- Hugging Space (for Deployment)
 
 ## Features:-
 
