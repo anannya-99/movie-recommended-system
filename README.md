@@ -40,6 +40,6 @@ It uses NLP techniques to convert textual data into numerical form and identifie
 - Working with similarity algorithms
 - Building and deploying ML applications
 
-# Connect with Me
+## Connect with Me
 
 Feel free to connect or provide feedback!
