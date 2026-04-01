@@ -40,6 +40,14 @@ It uses NLP techniques to convert textual data into numerical form and identifie
 - Working with similarity algorithms
 - Building and deploying ML applications
 
+## Visuals of Projects 
+<img width="1504" height="793" alt="Screenshot 2026-04-01 161921" src="https://github.com/user-attachments/assets/2d5a7ee6-7dd7-424f-b370-1c18e3d00fcf" />
+<img width="985" height="620" alt="image" src="https://github.com/user-attachments/assets/984a9b89-caec-4ee6-878b-0bd214349bcc" />
+
+
+
 ## Connect with Me
 
 Feel free to connect or provide feedback!
+
+
