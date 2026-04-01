@@ -7,7 +7,7 @@ A content-based Movie Recommender System that suggests similar movies based on u
 This project recommends movies by analyzing their content such as genres, cast, crew, keywords, and overview.  
 It uses NLP techniques to convert textual data into numerical form and identifies similar movies using cosine similarity.
 
-# How it works:- 
+## How it works:- 
 1. Data Collection (5000+ movies dataset)
 2. Data Preprocessing (cleaning, handling missing values)
 3. Feature Engineering (combining important columns into "tags")
@@ -16,7 +16,7 @@ It uses NLP techniques to convert textual data into numerical form and identifie
 6. Recommendation Generation (Top 5 similar movies)
 7. Web App using Streamlit
 
-# Tech Stack:- 
+## Tech Stack:- 
 
 - Python
 - Pandas
@@ -27,14 +27,14 @@ It uses NLP techniques to convert textual data into numerical form and identifie
 - TMDB API
 - Git LFS (for handling large files)
 
-# Features:-
+## Features:-
 
 - Movie recommendation based on content similarity
 - Interactive UI using Streamlit
 - Displays movie posters using API
 - Fast and simple user experience
 
-# Learnings:-
+## Learnings:-
 - Data preprocessing and feature engineering
 - NLP techniques like Bag of Words and stemming
 - Working with similarity algorithms
